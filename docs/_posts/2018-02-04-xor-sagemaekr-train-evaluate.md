@@ -41,7 +41,7 @@ directory내에 Tensorflow Estimator tutorial 과 다르게 추가된 파일은 
 3. input function에는 train, evaluation, serving을 위한 세가지 input function이 정의되 있어야 한다.
 4. predefined estimator를 사용할 경우 estimator_fn을 작성하고 custom estimator를 사용할 경우 model_fn을 작성한다.
 5. estimator config는 sagemaker에서 정의 하므로 run_config를 인자로 받는다. (**cluster spec**)
-  
+
 
 ## S3에 Data Upload 하기
 위 1번 항목에 서술한 것처럼 S3 bucket내에 학습, 평가에 사용할  
