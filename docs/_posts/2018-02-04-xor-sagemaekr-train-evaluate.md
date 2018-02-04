@@ -3,6 +3,7 @@ layout: post
 title:  "Sagemaker Tutorial"
 author: huhuta
 categories: Sagemaker
+comments: true
 ---
 
 # Sagemaker Xor tutorial
