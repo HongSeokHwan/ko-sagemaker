@@ -41,7 +41,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
- disqus_shortname: blog-sagemaker
+ disqus_shortname: blog-sagemaker-io
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
