@@ -13,9 +13,7 @@ comments: true
 Tensorflow Estimator에 대해서 처음 접하신다면 아래 페이지를 먼저 참고하시는 것을 추천 드립니다.  
 [Estimator xor tutorial link](http://blog.sagemaker.io/tensorflow/2018/02/02/xor.html)
 
-
-
-예제 코드는  [이 곳](https://github.com/HongSeokHwan/ko-sagemaker/tree/master/Sagemaker/xor)에 있습니다. <br>
+예제 코드는  [여기](https://github.com/HongSeokHwan/ko-sagemaker/tree/master/Sagemaker/xor)에 있습니다. <br>
 혹은 아래 script를 terminal에서 실행하면 됩니다.
 ```bash
 git clone https://github.com/HongSeokHwan/ko-sagemaker.git
