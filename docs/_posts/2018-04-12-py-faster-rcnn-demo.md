@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "py-faster-rcnn research"
+title:  "py-faster-rcnn demo.py 분"
 author: huhuta
-categories: Machine Learning
+categories: Machine_learning
 comments: true
 ---
 

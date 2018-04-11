@@ -2,7 +2,7 @@
 layout: post
 title:  "caffe, caffe2 research"
 author: huhuta
-categories: Machine Learning
+categories: Machine_learning
 comments: true
 ---
 
