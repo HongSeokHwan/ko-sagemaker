@@ -9,11 +9,11 @@ comments: true
 # 4월 12일 두다지 스터디
 
 ## 1. Caffe, Caffe2 research
-[link](http://www.sagemaker.io/machine_learning/2018/04/04/caffe-caffe2-tensorflow.html)  
+[link](/machine_learning/2018/04/04/caffe-caffe2-tensorflow.html)  
 ![caffe2](https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/Caffe2-logo.png)  
 
 ## 2. py-faster-rcnn demo.py 분석
-[link](http://www.sagemaker.io/machine_learning/2018/04/12/py-faster-rcnn-demo.html)
+[link](/machine_learning/2018/04/12/py-faster-rcnn-demo.html)
 ![faster-rcnn](https://bigsnarf.files.wordpress.com/2016/11/pedesterian_detection.png?w=630)
 
 ## 3. httpie
