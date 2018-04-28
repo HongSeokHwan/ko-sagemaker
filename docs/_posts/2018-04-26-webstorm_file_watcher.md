@@ -2,7 +2,7 @@
 layout: post
 title:  "Webstorm file wathcer 설정하기"
 author: huhuta
-categories: study
+categories: Study
 comments: true
 ---
 

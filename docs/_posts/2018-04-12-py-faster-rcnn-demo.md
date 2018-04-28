@@ -2,7 +2,7 @@
 layout: post
 title:  "py-faster-rcnn demo.py 분석"
 author: huhuta
-categories: Machine_learning
+categories: MachineLearning
 comments: true
 ---
 

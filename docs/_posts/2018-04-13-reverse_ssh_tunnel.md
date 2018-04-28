@@ -2,7 +2,7 @@
 layout: post
 title:  "Reverse SSH Tunnel"
 author: huhuta
-categories: study
+categories: Study
 comments: true
 ---
 

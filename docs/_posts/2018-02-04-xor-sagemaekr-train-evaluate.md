@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Sagemaker Tutorial"
+title:  "SageMaker Tutorial"
 author: huhuta
-categories: Sagemaker
+categories: SageMaker
 comments: true
 ---
 
